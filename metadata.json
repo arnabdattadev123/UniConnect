@@ -1,0 +1,6 @@
+{
+  "name": "UniConnect - Student & Alumni Career Network",
+  "description": "Connect students and alumni for career mentorship, job vacancy referrals, direct messaging, and profile showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
